@@ -1,3 +1,4 @@
+# appdev
 # App-Dev Olivera, Renzo Nikko P.
 My first repository.
 
@@ -5,7 +6,7 @@ My first repository.
 ### *My Top 3 Favorite Anime*
 ---
 # My Information
-(
+{
   "firstName": "Renzo Nikko"
   "lastName": "Olivera"
   "age": "20"
