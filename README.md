@@ -1,5 +1,4 @@
-# appdev
-# App-Dev Olivera, Renzo Nikko P.
+# app-dev
 My first repository.
 
 
